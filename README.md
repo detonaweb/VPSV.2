@@ -36,13 +36,7 @@ https://certbot.eff.org/instructions?ws=apache&os=ubuntubionic
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nandoslayer/install/bad/ubuinst3.sh)
 ```
-Senha: @nandoslayer
 
-
-# SINCRONIZAR NA VPS, COMPATÍVEL COM ARM!
-```
-wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
-```
 
 
 #Instalação padrão!
@@ -53,6 +47,4 @@ apt update && apt upgrade -y && apt install dos2unix -y && wget -o- https://raw.
 # SINCRONIZAR NA VPS, COMPATÍVEL COM X86_64!
 # NÃO USE ESSE SCRIPT EM VPS SSHPLUS PRO, RISCO DE PERDER A LICENÇA.
 
-```
-wget https://bitbin.it/7wQsRfzA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
