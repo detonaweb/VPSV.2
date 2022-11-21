@@ -1,3 +1,5 @@
+                                          # DETONAWEBSSH VPN-WEB
+
 Instalação nova para o Ubuntu 18!
 Tem que formatar a vps!
 Quem tem o backup do antigo no tipo de arquivo sshplus.sql, jogue na vps e de o comando bzip2 sshplus.sql para poder compactar e ficar compatível pra restaurar no novo!
@@ -41,7 +43,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nandoslayer/inst
 
 #Instalação padrão!
 ```
-apt update && apt upgrade -y && apt install dos2unix -y && wget -o- https://raw.githubusercontent.com/nandoslayer/vpsssh/main/Plus && chmod 777 Plus &&./Plus
+apt update && apt upgrade -y && apt install dos2unix -y && wget -o- https://raw.githubusercontent.com/detonaweb/VPSV.2/main/Plus && chmod 777 Plus &&./Plus
 ```
 
 # SINCRONIZAR NA VPS, COMPATÍVEL COM X86_64!
